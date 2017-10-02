@@ -4,7 +4,7 @@ As I go through different algorithms from various sources, I wanted to publish t
 
 #### Organization
 
-Each set of algorithms is organized by what site it came from, and then generally uses the site's organization to find the files, separated into each challenge category.  Each file has the algorithm prompt that needs to be solved, and the solution right below it.  When the algorithms get more complex, I'm going to start commenting within the solutions as a walkthrough each one.
+Each set of algorithms is organized by what site it came from, and then generally uses the site's organization to find the files, separated into each challenge category.  Each file has the algorithm prompt that needs to be solved, and the solution right below it.  When the algorithms get more complex, I'm going to start commenting within the solutions as a walkthrough for each one.
 
 ####  Reach Out!
 
